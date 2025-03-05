@@ -2,6 +2,8 @@
 
 This example display on the oled screen the distance of a object from the ultrasonic sensor
 
+https://www.adeept.com/
+
 ![IMG20250227011852](https://github.com/user-attachments/assets/8a04e6ad-043a-4254-9c00-915805025d9a)
 
 ![IMG20250305210426](https://github.com/user-attachments/assets/c61095a3-370c-41b2-b064-41dbb74eafa7)
